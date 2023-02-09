@@ -1,0 +1,14 @@
+ipywidgets
+jupyterlab
+loky
+matplotlib
+networkx
+numpy
+pandas
+scikit-learn
+setuptools
+tqdm
+umap-learn[plot]
+xxhash
+vectorizers
+wheel
