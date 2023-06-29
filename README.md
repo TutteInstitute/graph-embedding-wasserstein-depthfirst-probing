@@ -1,3 +1,5 @@
+💢💢 **This is experimental code! It is public to facilitate idea sharing and commenting.** 💢💢
+
 # Graph embedding by Wasserstein distance between clouds of depth-first probes
 
 See the [notebook](embedding.ipynb) is for details.
